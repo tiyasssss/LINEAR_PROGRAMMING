@@ -1,0 +1,4 @@
+pulp
+streamlit
+matplotlib
+numpy
