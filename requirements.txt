@@ -2,3 +2,4 @@ pulp
 streamlit
 matplotlib
 numpy
+scipy
